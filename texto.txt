@@ -4,4 +4,4 @@ Este archivo pertenece a Sara.
 
 Esta es otra linea para Sara.
 
-Cambios para la rama principal.
+Cambios para la rama principal. Cambios Git de la nueva rama.
